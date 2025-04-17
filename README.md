@@ -3,15 +3,6 @@
   <img src="https://media.giphy.com/media/Bn0JzrZxWfTKU/giphy.gif" width="200"/>
 </div>
 
-🎓Bachelor of Mechatronics Engineering
-
-🎓computational intelligence master's program
-
-📊 Data Scientist | Machine Learning | Computer Vision. 
-
-💻 Researches about datas, machine learning and Compute Vision
-
-
 ### :fire: My Stats :
 <div id="header" align="center">
   
