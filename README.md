@@ -3,6 +3,11 @@
   <img src="https://media.giphy.com/media/Bn0JzrZxWfTKU/giphy.gif" width="200"/>
 </div>
 
+👨‍💻 Data Scientist turned Data Engineer with 4+ years of experience in analytics, ML, and pipelines.  
+🧠 Passionate about building data-driven products using Python, SQL, Airflow, and Spark.  
+📊 Worked on churn prediction, fraud detection, NLP, and automation in real-world projects.  
+🌍 Open to remote opportunities and always exploring the intersection of data and strategy.
+
 ### :fire: My Stats :
 <div id="header" align="center">
   
